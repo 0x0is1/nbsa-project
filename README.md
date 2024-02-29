@@ -1,11 +1,14 @@
 # Naive Bayes Sentiment analysis
 
+### Dataset used
+https://www.kaggle.com/datasets/parulpandey/emotion-dataset
+
 ### Install and run
 ```
-git clone https://github.com/0x0is1/naive-bayes-sentiment-analysis
-cd naive-bayes-sentiment-analysis
+git clone https://github.com/0x0is1/nbsa-project
+cd nbsa-project
 pip install pandas nltk
-python train_predict.py
+python test_nbsa.py
 ```
 
 ### Requirements
